@@ -18,5 +18,5 @@
 - 👯 I’m looking to collaborate on Analytics Engineering. I'm really interested in AE and the future of it.
   
 - 💬 Ask me about My GitHub projects. I would love to gain feedback.
-- 📫 How to reach me: Email or [LinkedIn](https://www.linkedin.com/in/joshua-blackwell-853421129/)
+- 📫 How to reach me: [Email](mailto:joshblackwell6@gmail.com) or [LinkedIn](https://www.linkedin.com/in/joshua-blackwell-853421129/)
   >
