@@ -4,8 +4,7 @@
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/joshua-blackwell-853421129/)
 
-#### SKILLS: Data Modeling | ETL, ELT | Python, PySpark, Airflow | SQL | 
-Power BI | Tableau | Looker Studio | Excel | GitHub | Git | Snowflake | dbt | Docker | Power Platform
+#### SKILLS: Data Modeling | ETL, ELT | Python, PySpark, Airflow | SQL | Power BI | Tableau | Looker Studio | Excel | GitHub | Git | Snowflake | dbt | Docker | Power Platform
 
 
 <!-- - 🤔 I’m looking for help with -->
