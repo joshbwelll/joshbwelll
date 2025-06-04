@@ -13,9 +13,9 @@
 
 ## About me:
 
-- 🔭 I’m currently working on personal projects that intertwine Data Analytics, Analytics Engineering, and Business Intelligence
-- 🌱 I’m currently learning Analytics and Data Engineering
-- 👯 I’m looking to collaborate on Analytics Engineering. I'm really interested in AE and the future of it.
+- 🔭 I’m currently working on personal projects that intertwine Data Analytics, Analytics Engineering, and Business Intelligence.
+- 🌱 I’m currently learning about Analytics and Data Engineering.
+- 👯 I’m looking to collaborate on Analytics Engineering related projects. I'm really interested in AE and the future of it.
   
 - 💬 Ask me about My GitHub projects. I would love to gain feedback.
 - 📫 How to reach me: [Email](mailto:joshblackwell6@gmail.com) or [LinkedIn](https://www.linkedin.com/in/joshua-blackwell-853421129/)
