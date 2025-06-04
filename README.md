@@ -12,7 +12,7 @@ Power BI | Tableau | Looker Studio | Excel | GitHub | Git | Snowflake | dbt | Do
 
 ## About me:
 
-- 🔭 I’m currently working on personal projects that interwine Data analatics, analtic eningering, and Business intellegence
+- 🔭 I’m currently working on personal projects that intertwine Data Analytics, Analytics Engineering, and Business Intelligence
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
