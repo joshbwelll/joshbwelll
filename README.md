@@ -9,7 +9,7 @@
 
 <!-- - 🤔 I’m looking for help with -->
 
-#### INTERESTS: Data Engineering, Product Mangement, Analytic Engineering, Analyst roles
+#### INTERESTS: Data Engineering, Product Mangement, Analytic Engineering, Analyst roles | Industry area: E-commerce, Retail, FinTech, Manufacturing, Tech
 
 ## About me:
 
